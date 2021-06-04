@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "codinovatest"
+  "defaultProject": "codinovatest",
+  "cli": {
+    "analytics": "d618c012-6d42-429d-b129-9b7a23d6a0ef"
+  }
 }
